@@ -28,5 +28,6 @@ cnpm install
 cnpm run dev
 
 (8) 安装vue-resource
+
 cnpm install vue-resource
  
