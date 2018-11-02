@@ -12,6 +12,7 @@ node -v
 npm -v
 
 （3）建议安装cnpm【淘宝镜像】，下载依赖的模块速度快
+
 npm install -g cnpm --registry=https://registry.npm.taobao.org
 
 （4）安装vue脚手架
@@ -23,11 +24,10 @@ vue init webpack vue-demo
 （6）安装所需模块
 cnpm install
 
-
 （7）运行
 cnpm run dev
 
-(8) 安装vue-resource
+ (8) 安装vue-resource
 
 cnpm install vue-resource
  
