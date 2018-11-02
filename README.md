@@ -30,15 +30,12 @@ vue init webpack vue-demo
 
 cnpm install
 
-（7）运行
 
-cnpm run dev
-
-（8）安装路由
-
-cnpm install vue-route
-
-(9) 安装vue-resource
+(7) 安装vue-resource
 
 cnpm install vue-resource
+
+（8）运行
+
+cnpm run dev
 
